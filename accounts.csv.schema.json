@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "name": "account_number",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "open_date",
+      "type": "date",
+      "format": "default"
+    },
+    {
+      "name": "account_type",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "source_system_code",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "account_mailing_address",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "account_status",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "rep_date",
+      "type": "date",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}

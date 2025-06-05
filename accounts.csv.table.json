@@ -1,0 +1,76 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 51
+    },
+    {
+      "field": "account_number",
+      "title": "account_number",
+      "width": 247,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "open_date",
+      "title": "open_date",
+      "width": 123,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "account_type",
+      "title": "account_type",
+      "width": 141,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "source_system_code",
+      "title": "source_system_code",
+      "width": 186,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "account_mailing_address",
+      "title": "account_mailing_address",
+      "width": 368,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "account_status",
+      "title": "account_status",
+      "width": 151,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "rep_date",
+      "title": "rep_date",
+      "width": 85,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    }
+  ]
+}
